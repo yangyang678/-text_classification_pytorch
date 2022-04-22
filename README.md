@@ -12,14 +12,11 @@
 整体的框架也可复用到其他问题上，只需要根据我们修改的model.py来确定喂入的Batch数据格式，其他的代码文件也只是根据具体问题去修改相应部分，降低了调试成本。
 
 ### 整体流程
-预训练脚本:
-sh pretrain.sh
+预训练脚本: sh pretrain.sh
 
-微调脚本：
-sh finetune.sh
+微调脚本: sh finetune.sh
 
-预测脚本:
-sh predict.sh
+预测脚本: sh predict.sh
 
 ### 代码目录及功能介绍
 1.common_utils              -- 常用工具包
