@@ -30,6 +30,8 @@ sh predict.sh
 * 动态权重Nezha + IDCNN + CRF
 * 动态权重Nezha + BILSTM + CRF
 
-
+![](https://github.com/yangyang678/text_classification_pytorch/blob/master/__pycache__/BILSTM.png?raw=true)
+![](https://github.com/yangyang678/text_classification_pytorch/blob/master/__pycache__/IDCNN.png)
+![](https://github.com/yangyang678/text_classification_pytorch/blob/master/__pycache__/%E5%8A%A8%E6%80%81%E6%9D%83%E9%87%8D%E8%9E%8D%E5%90%88.png)
 
 
