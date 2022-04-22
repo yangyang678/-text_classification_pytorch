@@ -9,7 +9,7 @@ sh finetune.sh
 sh predict.sh
 
 ## 代码目录及功能介绍
-![](https://typecho-1301074121.cos.ap-nanjing.myqcloud.com/blog/代码目录及功能介绍.png)
+![](https://github.com/yangyang678/text_classification_pytorch/blob/master/__pycache__/code_structure.png)
 
 
 
